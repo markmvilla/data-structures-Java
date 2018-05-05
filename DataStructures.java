@@ -2,9 +2,9 @@
 Data Structures
 
 Author		Mark Villa
-Date		  April 4, 2018
+Date		April 4, 2018
 Website		http://www.markvilla.org
-Copyright	2011 Mark Villa.
+Copyright	2018 Mark Villa.
 */
 
 import java.util.*;  
